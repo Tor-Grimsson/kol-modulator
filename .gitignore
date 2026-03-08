@@ -3,3 +3,4 @@ dist
 
 # Reference images
 docs/_torg
+.env
