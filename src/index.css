@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Design System Theme (includes color + typography + system tokens) */
+@import "../design-system/theme.css";
+
+/* Component Styles */
+@import "../design-system/components/components.css";
